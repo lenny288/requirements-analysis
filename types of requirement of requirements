@@ -1,0 +1,6 @@
+FUNCTIONAL REQUIREMENTS
+are what the system must do e.g the system must allow users to log in
+example; users must be able to transfer money between accounts
+NON-FUNCTIONAL 
+Are quality attributes e.g the system must load within 2 seconds
+example; transactions should be processed within 5 seconds
