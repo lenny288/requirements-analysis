@@ -1,0 +1,15 @@
+1. requirement analysis
+collect information from stakeholders using techiniquires such as interviews and observation
+2.requirement categorization
+.functional requirements -what the system must do
+.non-functional requirements-quality attributes
+.business requirement-high level goals
+.user requirement- what useers expect
+3. requiremet analysis
+checks feasability, consistency and completeness.using models such as use case daigrams and progress flow daigrams.
+4.requirement documentation
+create a software requirement specifications document.srs includes such as introduction and scope , functional requireemnts etc
+5.requirenent valuidatuion
+confirm with stakeholders that requirements are correct,complete, consistent and testable.
+6. re  quirement mangement
+requirements may change ,track update and update them.
