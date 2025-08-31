@@ -1,0 +1,11 @@
+USE CASE DAIGRAMS
+Is a type of unified modelling language that shows how users interact with a system through use cases.
+PURPOSE
+.show functional requirememts 
+.help stakeholders and developers communicate clearly
+.provide a high level view of system interactions
+BENEFITS
+.captures systems scope clearly
+.helps identify functional requirements early
+.improves communication betqqween users and developers
+.easy for non-techinical stakeholders to understand.
